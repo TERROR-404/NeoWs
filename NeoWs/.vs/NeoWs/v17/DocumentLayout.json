@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|c:\\users\\cmerd\\documents\\github\\neows\\neows\\neows\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|solutionrelative:neows\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "NeoWs\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\MauiProgram.cs",
+              "RelativeToolTip": "NeoWs\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:14:58.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
