@@ -4,12 +4,19 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:NeoWs"
+    xmlns:views="clr-namespace:NeoWs.Views"
     Shell.FlyoutBehavior="Disabled"
     Title="NeoWs">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+    <TabBar>
+        <ShellContent
+            Title="Asteroid list"
+            ContentTemplate="{DataTemplate views:ListPage}"
+            Icon="list.png"/>
+        <ShellContent
+            Title="API key"
+            ContentTemplate="{DataTemplate views:KeyPage}"
+            Icon="key.png"/>
+    </TabBar>
 
 </Shell>
