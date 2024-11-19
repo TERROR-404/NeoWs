@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cmerd\\OneDrive\\Dokumenty\\GitHub\\NeoWs\\NeoWs\\",
+  "WorkspaceRootPath": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|c:\\users\\cmerd\\onedrive\\dokumenty\\github\\neows\\neows\\neows\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|solutionrelative:neows\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|c:\\users\\cmerd\\documents\\github\\neows\\neows\\neows\\views\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|solutionrelative:neows\\views\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|c:\\users\\cmerd\\documents\\github\\neows\\neows\\neows\\views\\keypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|solutionrelative:neows\\views\\keypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|c:\\users\\cmerd\\documents\\github\\neows\\neows\\neows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|solutionrelative:neows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,31 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Views\\KeyPage.xaml",
+              "RelativeDocumentMoniker": "NeoWs\\Views\\KeyPage.xaml",
+              "ToolTip": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Views\\KeyPage.xaml",
+              "RelativeToolTip": "NeoWs\\Views\\KeyPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T00:07:56.606Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\cmerd\\OneDrive\\Dokumenty\\GitHub\\NeoWs\\NeoWs\\NeoWs\\AppShell.xaml",
-              "RelativeDocumentMoniker": "NeoWs\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\cmerd\\OneDrive\\Dokumenty\\GitHub\\NeoWs\\NeoWs\\NeoWs\\AppShell.xaml",
-              "RelativeToolTip": "NeoWs\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Title": "ListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Views\\ListPage.xaml",
+              "RelativeDocumentMoniker": "NeoWs\\Views\\ListPage.xaml",
+              "ToolTip": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Views\\ListPage.xaml",
+              "RelativeToolTip": "NeoWs\\Views\\ListPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-18T22:35:10.055Z",
+              "WhenOpened": "2024-11-18T23:24:38.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\App.xaml",
+              "RelativeDocumentMoniker": "NeoWs\\App.xaml",
+              "ToolTip": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\App.xaml",
+              "RelativeToolTip": "NeoWs\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T23:24:36.019Z",
               "EditorCaption": ""
             }
           ]

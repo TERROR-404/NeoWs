@@ -1,24 +1,84 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="NeoWs.Views.ListPage"
-             Title="ListPage">
+             x:Class="NeoWs.Views.ListPage">
     <VerticalStackLayout>
-        <Grid RowDefinitions="6*,3*,3*,3*,3*,7*,75*">
+        <Grid RowDefinitions="4*,2*,2*,2*,5*,*,75*">
             <Label
                 Grid.Row="0"
-                VerticalTextAlignment="Start"
-                HorizontalTextAlignment="Center"
-                Text="Asteroid list"
-                FontSize="Title"
-                Style="{StaticResource Headline}"
-                SemanticProperties.HeadingLevel="Level1" />
-            <Label
-                Grid.Row="1"
                 x:Name="connection"
                 Text="Internet connection is not working or API key is not valid"
+                FontSize="13"
+                HorizontalTextAlignment="Start"
+                MinimumWidthRequest="380"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
+            <Grid Grid.Row="1" ColumnDefinitions="*,9*" MinimumWidthRequest="400" MaximumHeightRequest="25" HorizontalOptions="Start" VerticalOptions="Center">
+                <CheckBox
+                    Grid.Column="0"
+                    x:Name="dangerBox"
+                    VerticalOptions="Center">
+                    <!--<CheckBox.Triggers>
+                        <DataTrigger TargetType="CheckBox"
+                             Binding="{Binding Source={x:Reference safeBox}, Path=IsChecked}"
+                             Value="false">
+                            <Setter Property="IsChecked"
+                                    Value="True"/>
+                        </DataTrigger>
+                    </CheckBox.Triggers>-->
+                </CheckBox>
+                <Label Text="Dangerous" Grid.Column="1" VerticalTextAlignment="Center"/>
             </Grid>
+            <Grid Grid.Row="2" ColumnDefinitions="*,9*" MinimumWidthRequest="400" MaximumHeightRequest="25" HorizontalOptions="Start" VerticalOptions="Center">
+                <CheckBox
+                    Grid.Column="0"
+                    x:Name="safeBox"
+                    VerticalOptions="Center">
+                    <!--<CheckBox.Triggers>
+                        <DataTrigger TargetType="CheckBox"
+                                     Binding="{Binding Source={x:Reference dangerBox}, Path=IsChecked}"
+                                     Value="false">
+                            <Setter Property="IsChecked"
+                                    Value="True"/>
+                        </DataTrigger>
+                    </CheckBox.Triggers>-->
+                </CheckBox>
+                <Label Text="Safe" Grid.Column="1" VerticalTextAlignment="Center"/>
+            </Grid>
+            <Grid Grid.Row="3" ColumnDefinitions="*,9*" MinimumWidthRequest="400" MaximumHeightRequest="25" HorizontalOptions="Start" VerticalOptions="Center">
+                <CheckBox
+                    Grid.Column="0"
+                    x:Name="yearBox"
+                    VerticalOptions="Center"/>
+                <Label Text="Following year approach" Grid.Column="1" VerticalTextAlignment="Center"/>
+            </Grid>
+            <Grid Grid.Row="4" ColumnDefinitions="1*,2*,3*" VerticalOptions="Center" MaximumWidthRequest="380">
+                <Label Grid.Column="0"
+                       Text="Sorting:"
+                       VerticalTextAlignment="Center"
+                       Margin="0,0,0,10"/>
+                <Border Grid.Column="1" Stroke="Black"
+                        VerticalOptions="Center"
+                        StrokeThickness="1"
+                        Margin="0,0,0,10">
+                    <Picker x:Name="sort">
+                        <Picker.ItemsSource>
+                            <x:Array Type="{x:Type x:String}">
+                                <x:String>Alphabet</x:String>
+                                <x:String>Size</x:String>
+                                <x:String>Closest approach</x:String>
+                            </x:Array>
+                        </Picker.ItemsSource>
+                    </Picker>
+                </Border>
+                <Button Grid.Column="2"
+                        Text="Update"
+                        FontAttributes="Bold"
+                        FontSize="15"
+                        MaximumWidthRequest="130"
+                        Margin="0,0,0,10"/>
+            </Grid>
+            <Label VerticalOptions="End" Grid.Row="5" MaximumHeightRequest="1" BackgroundColor="Black" MinimumWidthRequest="500"/>
+        </Grid>
     </VerticalStackLayout>
 </ContentPage>
