@@ -6,7 +6,8 @@
     xmlns:local="clr-namespace:NeoWs"
     xmlns:views="clr-namespace:NeoWs.Views"
     Shell.FlyoutBehavior="Disabled"
-    Title="NeoWs">
+    Title="NeoWs"
+    Shell.ForegroundColor="Black">
 
     <TabBar>
         <ShellContent

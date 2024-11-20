@@ -2,11 +2,18 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="NeoWs.Views.AsteroidPage"
-             Title="AsteroidPage">
+             Title="AsteroidPage"
+             >
     <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+        <Grid RowDefinitions="2*,*,*,*,*,*,*,*" Padding="10,0,0,0">
+            <Label Grid.Row="0" x:Name="AsterName" FontSize="20" FontAttributes="Bold"/>
+            <Label Text="Is Dangerous: " Grid.Row="1" x:Name="AsterDanger" FontSize="17"/>
+            <Label Text="Orbiting body: " Grid.Row="2" x:Name="AsterBody" FontSize="17"/>
+            <Label Text="Average velocity(km/h): " Grid.Row="3" x:Name="AsterVelocity" FontSize="17"/>
+            <Label Text="Average radius(km): " Grid.Row="4" x:Name="AsterRadius" FontSize="17"/>
+            <Label Text="First appearance: " Grid.Row="5" x:Name="AsterFirst" FontSize="17"/>
+            <Label Text="Next approach: " Grid.Row="6" x:Name="AsterNext" FontSize="17"/>
+            <Label Text="Average encounter frequency(years): " Grid.Row="7" x:Name="AsterFrequency" FontSize="17"/>
+        </Grid>
     </VerticalStackLayout>
 </ContentPage>

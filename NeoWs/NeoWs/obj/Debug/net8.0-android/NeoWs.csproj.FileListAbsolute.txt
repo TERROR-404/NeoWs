@@ -2088,3 +2088,4 @@ C:\Users\cmerd\Documents\GitHub\NeoWs\NeoWs\NeoWs\obj\Debug\net8.0-android\stamp
 C:\Users\cmerd\Documents\GitHub\NeoWs\NeoWs\NeoWs\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\cmerd\Documents\GitHub\NeoWs\NeoWs\NeoWs\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\cmerd\Documents\GitHub\NeoWs\NeoWs\NeoWs\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\cmerd\Documents\GitHub\NeoWs\NeoWs\NeoWs\obj\Debug\net8.0-android\android\assets\Newtonsoft.Json.dll

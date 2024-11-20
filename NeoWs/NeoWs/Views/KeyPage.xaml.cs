@@ -1,3 +1,5 @@
+using NeoWs.Models;
+
 namespace NeoWs.Views;
 
 public partial class KeyPage : ContentPage
@@ -6,4 +8,8 @@ public partial class KeyPage : ContentPage
 	{
 		InitializeComponent();
 	}
+	public void Save_Clicked(object sender, EventArgs e)
+	{
+		AsteroidList.ApiKey = apiKeyInput.Text;
+    }
 }

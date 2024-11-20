@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|c:\\users\\cmerd\\documents\\github\\neows\\neows\\neows\\models\\workwithhttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|solutionrelative:neows\\models\\workwithhttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|c:\\users\\cmerd\\documents\\github\\neows\\neows\\neows\\views\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|solutionrelative:neows\\views\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|c:\\users\\cmerd\\documents\\github\\neows\\neows\\neows\\views\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|solutionrelative:neows\\views\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|c:\\users\\cmerd\\documents\\github\\neows\\neows\\neows\\models\\asteroidlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|solutionrelative:neows\\models\\asteroidlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|c:\\users\\cmerd\\documents\\github\\neows\\neows\\neows\\models\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|solutionrelative:neows\\models\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|c:\\users\\cmerd\\documents\\github\\neows\\neows\\neows\\models\\asteroidlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|solutionrelative:neows\\models\\asteroidlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|c:\\users\\cmerd\\documents\\github\\neows\\neows\\neows\\views\\asteroidpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|solutionrelative:neows\\views\\asteroidpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|c:\\users\\cmerd\\documents\\github\\neows\\neows\\neows\\views\\asteroidpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CCE5B88-4AB4-40D9-AB27-23538209CA33}|NeoWs\\NeoWs.csproj|solutionrelative:neows\\views\\asteroidpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +34,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WorkWithHttpClient.cs",
-              "DocumentMoniker": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Models\\WorkWithHttpClient.cs",
-              "RelativeDocumentMoniker": "NeoWs\\Models\\WorkWithHttpClient.cs",
-              "ToolTip": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Models\\WorkWithHttpClient.cs",
-              "RelativeToolTip": "NeoWs\\Models\\WorkWithHttpClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
+              "DocumentIndex": 5,
+              "Title": "AsteroidPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Views\\AsteroidPage.xaml",
+              "RelativeDocumentMoniker": "NeoWs\\Views\\AsteroidPage.xaml",
+              "ToolTip": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Views\\AsteroidPage.xaml",
+              "RelativeToolTip": "NeoWs\\Views\\AsteroidPage.xaml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T18:51:56.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsteroidPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Views\\AsteroidPage.xaml.cs",
+              "RelativeDocumentMoniker": "NeoWs\\Views\\AsteroidPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Views\\AsteroidPage.xaml.cs",
+              "RelativeToolTip": "NeoWs\\Views\\AsteroidPage.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA+wAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:21:38.6Z",
+              "WhenOpened": "2024-11-20T19:09:32.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Views\\ListPage.xaml",
+              "RelativeDocumentMoniker": "NeoWs\\Views\\ListPage.xaml",
+              "ToolTip": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Views\\ListPage.xaml",
+              "RelativeToolTip": "NeoWs\\Views\\ListPage.xaml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T09:56:41.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Views\\ListPage.xaml.cs",
+              "RelativeDocumentMoniker": "NeoWs\\Views\\ListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Views\\ListPage.xaml.cs",
+              "RelativeToolTip": "NeoWs\\Views\\ListPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:49:05.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Asteroid.cs",
               "DocumentMoniker": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Models\\Asteroid.cs",
               "RelativeDocumentMoniker": "NeoWs\\Models\\Asteroid.cs",
               "ToolTip": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Models\\Asteroid.cs",
               "RelativeToolTip": "NeoWs\\Models\\Asteroid.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAywC8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T20:58:17.47Z",
               "EditorCaption": ""
@@ -58,7 +109,7 @@
               "RelativeDocumentMoniker": "NeoWs\\Models\\AsteroidList.cs",
               "ToolTip": "C:\\Users\\cmerd\\Documents\\GitHub\\NeoWs\\NeoWs\\NeoWs\\Models\\AsteroidList.cs",
               "RelativeToolTip": "NeoWs\\Models\\AsteroidList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T20:58:00.56Z",
               "EditorCaption": ""

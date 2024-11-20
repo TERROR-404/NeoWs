@@ -10,6 +10,6 @@
                 Margin="0,0,0,30">
             <Entry x:Name="apiKeyInput"/>
         </Border>
-        <Button Text="Save" FontSize="15" FontAttributes="Bold" MaximumWidthRequest="130"/>
+        <Button Text="Save" FontSize="15" FontAttributes="Bold" MaximumWidthRequest="130" Clicked="Save_Clicked"/>
     </VerticalStackLayout>
 </ContentPage>

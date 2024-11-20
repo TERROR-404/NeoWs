@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeoWs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+543161480d0be726a2b406a0ef0120238d3fbaea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0e3653cae6f704bd1cb6277d2116cb5199a609c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeoWs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeoWs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
